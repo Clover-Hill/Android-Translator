@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Neo-Translator</string>
+    <string name="search_hint">请输入你要翻译的单词</string>
+</resources>
